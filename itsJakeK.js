@@ -1,3 +1,3 @@
-let a = document;
-let b = window;
-let c = this;
+//var a = document;
+//var b = window;
+var c = this;
